@@ -96,7 +96,7 @@ Customize the agents in `main.py`:
      tools=[YFinanceTools(stock_price=True, analyst_recommendations=True)]
      ```
 
-![Alt text](images/logo.png)
+![###Output](image/image.png)
 
 
 
